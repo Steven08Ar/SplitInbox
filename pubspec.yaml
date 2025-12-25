@@ -41,10 +41,11 @@ dependencies:
   hive_flutter:
   enough_mail:
   go_router:
-  google_fonts: ^4.0.4
+#   google_fonts: ^4.0.4
   dynamic_color:
   glass_kit:
   uuid:
+  google_fonts: ^6.3.3
 
 dev_dependencies:
   flutter_test:
