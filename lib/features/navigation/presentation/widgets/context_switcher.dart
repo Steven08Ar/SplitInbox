@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../../contexts/presentation/cubit/context_cubit.dart';
+import '../../../contexts/presentation/cubit/context_cubit.dart';
 import '../../../../core/theme/design_system.dart';
 
 class ContextSwitcher extends StatelessWidget {

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../core/theme/design_system.dart';
-import '../../contexts/presentation/cubit/context_cubit.dart';
-import '../../navigation/presentation/widgets/context_switcher.dart';
+import '../../../contexts/presentation/cubit/context_cubit.dart';
+import '../../../navigation/presentation/widgets/context_switcher.dart';
 import '../cubit/email_cubit.dart';
 
 class ContextualInboxScreen extends StatelessWidget {

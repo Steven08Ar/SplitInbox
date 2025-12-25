@@ -1,5 +1,5 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
-import '../domain/entities/email_message.dart';
+import '../../domain/entities/email_message.dart';
 
 // States
 abstract class EmailState {}
